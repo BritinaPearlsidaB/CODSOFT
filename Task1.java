@@ -1,6 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 public class Task1 {
+    //NUMBER GAME
     public static void main(String[] args) {
         int start = 1;
         int end = 100;
